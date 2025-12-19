@@ -1,2 +1,5 @@
 download the dataset:
-https://github.com/aoerecinfo/aoe2dataset
+(Download this) Correctly formatted for this program: 
+https://drive.google.com/drive/folders/1QwmBPnPsQoVRoYd1hfcYXu-036--1ZSx?usp=sharing
+
+Source (if curious where it came from!): https://github.com/aoerecinfo/aoe2dataset
